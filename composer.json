@@ -1,0 +1,8 @@
+{
+  "name": "easyly/easyly",
+  "description": "Easyly PHP Library",
+  "require": {
+    "php": ">=8.2",
+    "another-vendor/package": "1.*"
+  }
+}
