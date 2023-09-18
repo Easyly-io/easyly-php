@@ -1,5 +1,5 @@
 {
-  "name": "easyly/easyly",
+  "name": "easyly/easyly-php",
   "description": "Easyly PHP Library",
   "require": {
     "php": ">=8.2",
