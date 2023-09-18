@@ -1,6 +1,19 @@
 {
   "name": "easyly/easyly-php",
   "description": "Easyly PHP Library",
+  "keywords": [
+    "Easyly",
+    "nodejs",
+    "api"
+  ],
+  "homepage": "https://www.easyly.com/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Easyly and contributors",
+      "homepage": "https://github.com/easyly-io/easyly-php/contributors"
+    }
+  ],
   "require": {
     "php": ">=8.2",
     "another-vendor/package": "1.*"
